@@ -1,8 +1,8 @@
 # Portfolio
 
-* [Independent projects](#Indepent-projects)
+* [Independent projects](#indepent-projects)
 * [Current software documentation](#current-software-documentation)
-* [Former hardware documentation](#former-hardward-documentation)
+* [Former hardware documentation](#former-hardware-documentation)
 
 ## Independent projects
 
