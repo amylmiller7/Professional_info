@@ -34,7 +34,7 @@ I am responsible for a variety of developer documentation:
 
 * [Extension point to customize click-to-dial](https://help.mypurecloud.com/?p=225740): Describes how to implement an interface in Apex to customize click-to-dial behavior in Salesforce.
 
-* [Extension Point to customize screen pops](https://help.mypurecloud.com/?p=225787): Describes how to implement an interface in Apex to customize screen pops in Salesforce.
+* [Extension point to customize screen pops](https://help.mypurecloud.com/?p=225787): Describes how to implement an interface in Apex to customize screen pops in Salesforce.
 
 * [Extension point to customize saving interaction logs](https://help.mypurecloud.com/?p=225794): Describes how to implement an interface in Apex to customize saving interaction logs in Salesforce.
 
