@@ -32,6 +32,12 @@ I am responsible for a variety of developer documentation:
 
 * [SDK to create and save diagnostic logs](https://help.mypurecloud.com/?p=225115): Describes how to use the SDK to create diagnostic logs about the Geneys Cloud for Salesforce integration within Salesforce.
 
+* [Extension point to customize click-to-dial](https://help.mypurecloud.com/?p=225740): Describes how to implement an interface in Apex to customize click-to-dial behavior in Salesforce.
+
+* [Extension Point to customize screen pops](https://help.mypurecloud.com/?p=225787): Describes how to implement an interface in Apex to customize screen pops in Salesforce.
+
+* [Extension point to customize saving interaction logs](https://help.mypurecloud.com/?p=225794): Describes how to implement an interface in Apex to customize saving interaction logs in Salesforce.
+
 * [Salesforce events](https://help.mypurecloud.com/?p=77239): Explains how to fire or listen for events either in the Salesforce console in Salesforce Classic or in all versions of Lightning Experience (with the postMessage API or Lightning Message Service).
 
 * [PureCloud for Salesforce Examples](https://github.com/MyPureCloud/purecloud-for-salesforce-examples): README files in GitHub describe example projects for the Salesforce Classic console, Lightning Experience, and the Genesys Cloud for Salesforce SDK. These examples use events in a Salesforce console app; events in a Salesforce Lightning app; the SDK for CTI extensions, DNC list updates, and Genesys Cloud Platform API calls.
