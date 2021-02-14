@@ -23,8 +23,7 @@ In GitHub repositories.
 
 Presentations I gave to documentation team at Genesys. Showed team the products that I document (embedded clients) and trained them in processes (docs as code) and tools for working on developer documentation in the Developer Center.
 
-* Working with content in the Developer Center (part two), February 20, 2019
-* Working with content in the Developer Center (part one), January 14, 2019
+* Working with content in the Developer Center, January 14, 2019
 * PureCloud embedded clients lunch and learn (part two), December 10, 2018
 * PureCloud embedded clients lunch and learn (part one), November 12, 2018
 
