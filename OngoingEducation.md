@@ -115,6 +115,8 @@ Select list of courses taken in-person and online divided by subject.
 
 ### Tools
 
+* Getting Started with Lucidchart (Part II), Lucidchart
+* Getting Started with Lucidchart (Part I), Lucidchart
 * Master the Lucidchart Basics, Lucidchart
 * Jenkins Tutorial for Beginners, ProgrammingKnowledge
 * WordPress.com Essential Training, Lynda.com, Morten Rand-Hendriksen
