@@ -9,9 +9,9 @@
 Independent projects in my GitHub repositories include technical documentation.
 
 * [API](https://github.com/amylmiller7/API): Contains independent project of a mock API with API reference material and introductory documentation about how to use the API.
-  
+
 * [Java](https://github.com/amylmiller7/Java): Contains independent projects and projects inspired by courses. One project includes Javadoc.
-  
+
 * [JavaScript](https://github.com/amylmiller7/JavaScript): Contains independent projects and projects inspired by courses. Projects include technical documentation.
 
 ## Current software documentation
@@ -41,13 +41,13 @@ I am responsible for a variety of developer documentation:
 * [Salesforce events](https://help.mypurecloud.com/?p=77239): Explains how to fire or listen for events either in the Salesforce console in Salesforce Classic or in all versions of Lightning Experience (with the postMessage API or Lightning Message Service).
 
 * [PureCloud for Salesforce Examples](https://github.com/MyPureCloud/purecloud-for-salesforce-examples): README files in GitHub describe example projects for the Salesforce Classic console, Lightning Experience, and the Genesys Cloud for Salesforce SDK. These examples use events in a Salesforce console app; events in a Salesforce Lightning app; the SDK for CTI extensions, DNC list updates, and Genesys Cloud Platform API calls.
-  
+
 * [PureCloud for Salesforce Einstein Example](https://github.com/MyPureCloud/purecloud-for-salesforce-einstein-example): README file in GitHub describes how to use a Salesforce Lightning component, Apex classes, and supporting files for use with Genesys Cloud for Salesforce to display Salesforce Knowledge articles based on ACD chat messages in Genesys Cloud for Salesforce.
-  
+
 * [PureCloud Embeddable Framework Example](https://github.com/MyPureCloud/purecloud-embeddable-framework-example): README file in GitHub contains a basic setup for a Genesys Cloud Embeddable Framework example page that you can use to explore the Genesys Cloud Embeddable Framework APIs in real-time.
-  
+
 * [PureCloud Embeddable Framework Mystery CRM](https://github.com/MyPureCloud/purecloud-embeddable-framework-mystery-crm): README file in GitHub contains an example application that mimics a custom CRM environment. The application can integrate with different Genesys Cloud Embeddable Framework deployment environments: local, private, and production.
-  
+
 * [Web services data dip connector API](https://developer.mypurecloud.com/api/webservice-datadip/): Explains what the API does and how to use it for our integrations and provides example code.
 
 * [Developer tools](https://developer.mypurecloud.com/gettingstarted/developer-tools-intro.html): Drafted original documentation that described tools (API Explorer, Web Chat, Callback, Code Editor, Notification, and Analytics Query Builder) that allow developers and non-developers to play with our APIs through a user interface. Subsequently edited and moved to new location by different writer.
@@ -55,9 +55,11 @@ I am responsible for a variety of developer documentation:
 
 ### Back-end integrations
 
-I create and maintain documentation for system administrators and developers to use data actions integrations.
+I created and maintained documentation for system administrators and developers to use data actions integrations.
 
- * [Adobe](https://help.mypurecloud.com/?p=221146)
+> Note: Any links in the attached PDFs go to live pages that I no longer maintain.
+
+ * [Adobe](https://github.com/amylmiller7/Professional_info/pdfs/about_the_adobe_data_actions_integrations.pdf)
  * [AWS Lambda](https://help.mypurecloud.com/?p=178553)
  * [Genesys Cloud](https://help.mypurecloud.com/?p=144553)
  * [Google](https://help.mypurecloud.com/?p=223347)
@@ -80,7 +82,7 @@ I create and maintain documentation for end-users, system administrators, and de
 
 ## Former hardware documentation
 
-Previously, I worked in content localization and technical editing at a semiconductor company. 
+Previously, I worked in content localization and technical editing at a semiconductor company.
 
 ### Application notes
 
