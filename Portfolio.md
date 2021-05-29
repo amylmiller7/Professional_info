@@ -59,7 +59,7 @@ I created and maintained documentation for system administrators and developers 
 
 > Note: Any links in the attached PDFs go to live pages that I no longer maintain.
 
- * [Adobe](https://github.com/amylmiller7/Professional_info/pdfs/about_the_adobe_data_actions_integration.pdf)
+ * [Adobe](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_adobe_data_actions_integration.pdf)
  * [AWS Lambda](https://help.mypurecloud.com/?p=178553)
  * [Genesys Cloud](https://help.mypurecloud.com/?p=144553)
  * [Google](https://help.mypurecloud.com/?p=223347)
