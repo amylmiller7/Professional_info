@@ -22,11 +22,11 @@ As an embedded technical writer at a software company, I worked closely with two
 
 I was responsible for a variety of developer documentation.
 
-> Note: Any links in the attached PDFs go to live pages that I no longer maintain after May 31, 2021.
+> Note: Any links in the attached PDFs go to live pages that after May 31, 2021 I no longer maintain.
 
 * [Genesys Cloud SCIM (Identity Management)](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_overview.pdf): Describes how to use the SCIM API implementation to simplify the management of user entities between Genesys Cloud and identity management providers. I also edited and maintained the [SCIM API](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_apis.pdf) reference material.
 
-* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_overview.pdf/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to [develop and deploy](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_deployment_options.pdf) the framework; the [configuration and methods](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_configuration_and_methods.pdf) and [actions](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_actions.pdf) to use; [condensed conversation information](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_condensed_conversation_information.pdf); a full [example](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_example.pdf); and information about [support](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_support.pdf). For a configuration and methods example, see [`settings`](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_settings.pdf).
+* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_overview.pdf/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to [develop and deploy](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_deployment_options.pdf) the framework ([private](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_ private_deployment), [public](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_ public_deployment.pdf); the [configuration and methods](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_configuration_and_methods.pdf) and [actions](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_actions.pdf) to use; [condensed conversation information](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_condensed_conversation_information.pdf); a full [example](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_example.pdf); and information about [support](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_support.pdf). For a configuration and methods example, see [`settings`](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_settings.pdf).
 
 * [SDK to route Salesforce emails](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_sdk_to_route_salesforce_emails.pdf): Explains why and how to route Salesforce emails through our SDK. Describes the Email class, methods, and parameters available under two different namespaces, and provides example code.
 
@@ -59,7 +59,7 @@ I was responsible for a variety of developer documentation.
 
 I created and maintained documentation for system administrators and developers to use data actions integrations.
 
-> Note: Any links in the attached PDFs go to live pages that I no longer maintain after May 31, 2021.
+> Note: Any links in the attached PDFs go to live pages that after May 31, 2021 I no longer maintain.
 
  * [Adobe](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_adobe_data_actions_integration.pdf)
  * [AWS Lambda](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_aws_lambda_data_actions_integration.pdf)
@@ -76,7 +76,7 @@ I created and maintained documentation for system administrators and developers 
 
 I created and maintained documentation for end-users, system administrators, and developers who want to use Genesys Cloud inside third-party products or custom systems, or with browser extensions.
 
-> Note: Any links in the attached PDFs go to live pages that I no longer maintain after May 31, 2021.
+> Note: Any links in the attached PDFs go to live pages that after May 31, 2021 I no longer maintain.
 
 * [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_genesys_cloud_embeddable_framework.pdf)
 * [Genesys Cloud  for Salesforce](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_genesys_cloud_for_salesforce.pdf)
