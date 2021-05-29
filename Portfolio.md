@@ -60,13 +60,13 @@ I created and maintained documentation for system administrators and developers 
 > Note: Any links in the attached PDFs go to live pages that I no longer maintain.
 
  * [Adobe](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_adobe_data_actions_integration.pdf)
- * [AWS Lambda](https://help.mypurecloud.com/?p=178553)
- * [Genesys Cloud](https://help.mypurecloud.com/?p=144553)
- * [Google](https://help.mypurecloud.com/?p=223347)
- * [Microsoft Dynamics 365](https://help.mypurecloud.com/?p=145981)
- * [Salesforce](https://help.mypurecloud.com/?p=65380)
- * [Web services](https://help.mypurecloud.com/?p=127163)
- * [Zendesk](https://help.mypurecloud.com/?p=147019)
+ * [AWS Lambda](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_aws_lambda_data_actions_integration.pdf)
+ * [Genesys Cloud](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_genesys_cloud_data_actions_integration.pdf)
+ * [Google](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_google_data_actions_integration.pdf)
+ * [Microsoft Dynamics 365](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_microsoft_dynamics_365_data_actions_integration.pdf)
+ * [Salesforce](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_salesforce_data_actions_integration.pdf)
+ * [Web services](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_web_services_data_actions_integration.pdf)
+ * [Zendesk](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_zendesk_data_actions_integration.pdf)
 
 **Deprecated products**: Verint WFM historical integration, Verint WFM RTA integration, Oracle data actions integration, web services data dip connector (Bridge Server).
 
