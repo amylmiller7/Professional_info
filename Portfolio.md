@@ -26,7 +26,7 @@ I was responsible for a variety of developer documentation.
 
 * [Genesys Cloud SCIM (Identity Management)](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_overview.pdf): Describes how to use the SCIM API implementation to simplify the management of user entities between Genesys Cloud and identity management providers. I also edited and maintained the [SCIM API](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_apis.pdf) reference material.
 
-* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_overview.pdf/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to develop and deploy the framework and the configuration, methods, and actions to use.
+* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_overview.pdf/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to [develop and deploy](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_deployment_options.pdf) the framework; the [configuration and methods](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_configuration_and_methods.pdf) and [actions](https://github.com/amylmiller7/Professional_info/blob/master/pdfsgenesys_cloud_embeddable_framework_actions.pdf) to use; [condensed conversation information](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_condensed_conversation_information.pdf); a full [example](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_example.pdf); and information about [support](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_support.pdf).
 
 * [SDK to route Salesforce emails](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_sdk_to_route_salesforce_emails.pdf): Explains why and how to route Salesforce emails through our SDK. Describes the Email class, methods, and parameters available under two different namespaces, and provides example code.
 
@@ -52,7 +52,7 @@ I was responsible for a variety of developer documentation.
 
 * [Web services data dip connector API](https://developer.mypurecloud.com/api/webservice-datadip/): Explains what the API does and how to use it for our integrations and provides example code.
 
-* [Developer tools](https://developer.mypurecloud.com/gettingstarted/developer-tools-intro.html): Drafted original documentation that described tools (API Explorer, Web Chat, Callback, Code Editor, Notification, and Analytics Query Builder) that allow developers and non-developers to play with our APIs through a user interface. Subsequently edited and moved to new location by different writer.
+* Developer tools: Drafted original documentation that described tools (API Explorer, Web Chat, Callback, Code Editor, Notification, and Analytics Query Builder) that allow developers and non-developers to play with our APIs through a user interface. Subsequently edited and moved to new location by different writer.
 
 
 ### Back-end integrations
