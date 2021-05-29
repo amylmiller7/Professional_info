@@ -24,31 +24,31 @@ I was responsible for a variety of developer documentation.
 
 > Note: Any links in the attached PDFs go to live pages that I no longer maintain after May 31, 2021.
 
-* [Genesys Cloud SCIM (Identity Management)](https://developer.mypurecloud.com/api/rest/v2/scim/scim-overview.html): Describes how to use the SCIM API implementation to simplify the management of user entities between Genesys Cloud and identity management providers. I also edited and maintained the [SCIM API](https://developer.mypurecloud.com/api/rest/v2/scim/) reference material.
+* [Genesys Cloud SCIM (Identity Management)](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_overview.pdf): Describes how to use the SCIM API implementation to simplify the management of user entities between Genesys Cloud and identity management providers. I also edited and maintained the [SCIM API](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_scim_identity_management_apis.pdf) reference material.
 
-* [Genesys Cloud Embeddable Framework](https://developer.mypurecloud.com/api/embeddable-framework/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to develop and deploy the framework and the configuration, methods, and actions to use.
+* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/genesys_cloud_embeddable_framework_overview.pdf/): Describes embeddable framework that developers can use in their products to integrate the core functionality of Genesys Cloud. Includes information about how to develop and deploy the framework and the configuration, methods, and actions to use.
 
-* [SDK to route Salesforce emails](https://help.mypurecloud.com/?p=134057): Explains why and how to route Salesforce emails through our SDK. Describes the Email class, methods, and parameters available under two different namespaces, and provides example code.
+* [SDK to route Salesforce emails](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_sdk_to_route_salesforce_emails.pdf): Explains why and how to route Salesforce emails through our SDK. Describes the Email class, methods, and parameters available under two different namespaces, and provides example code.
 
-* [SDK to call the Platform API](https://help.mypurecloud.com/?p=225106): Describes how to use the SDK to call the Genesys Cloud Platform API within Salesforce.
+* [SDK to call the Platform API](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_sdk_to_call_the_genesys_cloud_platform_api.pdf): Describes how to use the SDK to call the Genesys Cloud Platform API within Salesforce.
 
-* [SDK to create and save diagnostic logs](https://help.mypurecloud.com/?p=225115): Describes how to use the SDK to create diagnostic logs about the Geneys Cloud for Salesforce integration within Salesforce.
+* [SDK to create and save diagnostic logs](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_sdk_to_create_and_save_diagnostic_logs.pdf): Describes how to use the SDK to create diagnostic logs about the Geneys Cloud for Salesforce integration within Salesforce.
 
-* [Extension point to customize click-to-dial](https://help.mypurecloud.com/?p=225740): Describes how to implement an interface in Apex to customize click-to-dial behavior in Salesforce.
+* [Extension point to customize click-to-dial](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_extension_points_to_customize_click-to-dial.pdf): Describes how to implement an interface in Apex to customize click-to-dial behavior in Salesforce.
 
-* [Extension point to customize screen pops](https://help.mypurecloud.com/?p=225787): Describes how to implement an interface in Apex to customize screen pops in Salesforce.
+* [Extension point to customize screen pops](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_extension_points_to_customize_screen_pop.pdf): Describes how to implement an interface in Apex to customize screen pops in Salesforce.
 
-* [Extension point to customize saving interaction logs](https://help.mypurecloud.com/?p=225794): Describes how to implement an interface in Apex to customize saving interaction logs in Salesforce.
+* [Extension point to customize saving interaction logs](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/use_the_extension_points_to_customize_saving_interaction_logs.pdf): Describes how to implement an interface in Apex to customize saving interaction logs in Salesforce.
 
-* [Salesforce events](https://help.mypurecloud.com/?p=77239): Explains how to fire or listen for events either in the Salesforce console in Salesforce Classic or in all versions of Lightning Experience (with the postMessage API or Lightning Message Service).
+* [Salesforce events](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/events_in_salesforce.pdf): Explains how to fire or listen for events either in the Salesforce console in Salesforce Classic or in all versions of Lightning Experience (with the postMessage API or Lightning Message Service).
 
-* [PureCloud for Salesforce Examples](https://github.com/MyPureCloud/purecloud-for-salesforce-examples): README files in GitHub describe example projects for the Salesforce Classic console, Lightning Experience, and the Genesys Cloud for Salesforce SDK. These examples use events in a Salesforce console app; events in a Salesforce Lightning app; the SDK for CTI extensions, DNC list updates, and Genesys Cloud Platform API calls.
+* [Genesys Cloud for Salesforce Examples](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/events_in_salesforce.pdf): README files in GitHub describe example projects for the Salesforce Classic console, Lightning Experience, and the Genesys Cloud for Salesforce SDK. These examples use events in a Salesforce console app; events in a Salesforce Lightning app; the SDK for CTI extensions, DNC list updates, and Genesys Cloud Platform API calls.
 
-* [PureCloud for Salesforce Einstein Example](https://github.com/MyPureCloud/purecloud-for-salesforce-einstein-example): README file in GitHub describes how to use a Salesforce Lightning component, Apex classes, and supporting files for use with Genesys Cloud for Salesforce to display Salesforce Knowledge articles based on ACD chat messages in Genesys Cloud for Salesforce.
+* [PureCloud for Salesforce Einstein Example](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/PureCloud_for_Salesforce_Einstein_Example.pdf): README file in GitHub describes how to use a Salesforce Lightning component, Apex classes, and supporting files for use with Genesys Cloud for Salesforce to display Salesforce Knowledge articles based on ACD chat messages in Genesys Cloud for Salesforce.
 
-* [PureCloud Embeddable Framework Example](https://github.com/MyPureCloud/purecloud-embeddable-framework-example): README file in GitHub contains a basic setup for a Genesys Cloud Embeddable Framework example page that you can use to explore the Genesys Cloud Embeddable Framework APIs in real-time.
+* [PureCloud Embeddable Framework Example](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/PureCloud_Embeddable_Framework_Example.pdf): README file in GitHub contains a basic setup for a Genesys Cloud Embeddable Framework example page that you can use to explore the Genesys Cloud Embeddable Framework APIs in real-time.
 
-* [PureCloud Embeddable Framework Mystery CRM](https://github.com/MyPureCloud/purecloud-embeddable-framework-mystery-crm): README file in GitHub contains an example application that mimics a custom CRM environment. The application can integrate with different Genesys Cloud Embeddable Framework deployment environments: local, private, and production.
+* [PureCloud Embeddable Framework Mystery CRM](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/PureCloud_Embeddable_Framework_Mystery_CRM.pdf): README file in GitHub contains an example application that mimics a custom CRM environment. The application can integrate with different Genesys Cloud Embeddable Framework deployment environments: local, private, and production.
 
 * [Web services data dip connector API](https://developer.mypurecloud.com/api/webservice-datadip/): Explains what the API does and how to use it for our integrations and provides example code.
 
