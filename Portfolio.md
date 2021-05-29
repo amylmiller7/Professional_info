@@ -74,11 +74,11 @@ I created and maintained documentation for system administrators and developers 
 
 I create and maintain documentation for end-users, system administrators, and developers who want to use Genesys Cloud inside third-party products or custom systems, or with browser extensions.
 
-* [Genesys Cloud Embeddable Framework](https://help.mypurecloud.com/?p=196909)
-* [Genesys Cloud  for Salesforce](https://help.mypurecloud.com/?p=65221)
-* [Genesys Cloud  for Zendesk](https://help.mypurecloud.com/?p=171639)
-* [Genesys Cloud  for Chrome](https://help.mypurecloud.com/?p=166977)
-* [Genesys Cloud  for Firefox](https://help.mypurecloud.com/?p=166977)
+* [Genesys Cloud Embeddable Framework](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_genesys_cloud_embeddable_framework.pdf)
+* [Genesys Cloud  for Salesforce](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_genesys_cloud_for_salesforce.pdf)
+* [Genesys Cloud  for Zendesk](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_genesys_cloud_for_zendesk.pdf)
+* [Genesys Cloud  for Chrome](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_genesys_cloud_browser_extensions.pdf)
+* [Genesys Cloud  for Firefox](https://github.com/amylmiller7/Professional_info/blob/master/pdfs/about_the_genesys_cloud_browser_extensions.pdf)
 
 ## Former hardware documentation
 
