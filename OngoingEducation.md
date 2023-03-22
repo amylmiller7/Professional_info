@@ -131,7 +131,7 @@ Select list of courses taken in-person and online divided by subject.
 
 ### Miscellaneous
 
-* Intro to SQL: Querying and managing data, Khan Academy, 
+* Intro to SQL: Querying and managing data, Khan Academy
 * Linux Command Line, Udemy, Ahmed Alkabary
 * Web Security: OAuth and OpenId Connect, Lynda.com, Keith Casey
 * HTTP Essential Training, Lynda.com, Morten Rand-Hendriksen
