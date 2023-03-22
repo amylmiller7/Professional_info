@@ -78,6 +78,7 @@ Select list of courses taken in-person and online divided by subject.
 
 ### AWS
 
+* Architecting on AWS, AWS, Sarah Nagata
 * AWS CloudFormation, Udemy, Stephane Maarek
 * AWS Essentials 2019, Udemy, Tia Williams
 * AWS Concepts, Udemy, Thomas Haslett
@@ -130,6 +131,7 @@ Select list of courses taken in-person and online divided by subject.
 
 ### Miscellaneous
 
+* Intro to SQL: Querying and managing data, Khan Academy, 
 * Linux Command Line, Udemy, Ahmed Alkabary
 * Web Security: OAuth and OpenId Connect, Lynda.com, Keith Casey
 * HTTP Essential Training, Lynda.com, Morten Rand-Hendriksen
