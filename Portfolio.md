@@ -3,7 +3,7 @@
 * [Independent projects](#independent-projects)
 * [Software documentation](#software-documentation)
   * [AWS](#aws)
-  * [Interactive Intelligence/Genesys](#interactive-intelligence/genesys)
+  * [Interactive Intelligence/Genesys](#interactive-intelligencegenesys)
 * [Hardware documentation](#hardware-documentation)
 
 ## Independent projects
