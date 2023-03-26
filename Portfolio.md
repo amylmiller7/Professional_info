@@ -1,8 +1,10 @@
 # Portfolio
 
 * [Independent projects](#independent-projects)
-* [Current software documentation](#current-software-documentation)
-* [Former hardware documentation](#former-hardware-documentation)
+* [Software documentation](#software-documentation)
+  * [AWS](#aws)
+  * [Interactive Intelligence/Genesys](#interactive-intelligence-genesys)
+* [Hardware documentation](#hardware-documentation)
 
 ## Independent projects
 
@@ -16,9 +18,35 @@ Independent projects in my GitHub repositories include technical documentation.
 
 ## Software documentation
 
-As an embedded technical writer at a software company, I worked closely with two delivery teams that practiced agile (scrum and kanban) software development. I documented cloud-based integrations between the Genesys Cloud platform and third-party products. I explained integration features for end-users, configuration and setup for system administrators, and customization, APIs, and SDKs for developers.
+### AWS
 
-### APIs/SDKs
+At AWS I write and maintain user guides, API references, CLI references, GitHub repositories, landing pages, UX content, error messages, contextual help, and code recommendations for software developers, database administrators, and other technical professionals.
+
+I initially worked as a solo writer for Amazon CodeGuru Reviewer, a service that uses program analysis and machine learning to detect potential issues in application code. I later transitioned to a team of writers dedicated to Amazon Relational Database Service (RDS), where I focus on documentation for RDS for MySQL and RDS for MariaDB.
+
+The following are selected features for the two services that I worked on at AWS.
+
+#### Amazon CodeGuru Reviewer
+
+* Detector Library: Landing page and user guide updates around collection of detectors that analyze customer code and return recommendations for ways to improve the performance and security of the code.
+
+* Suppress recommendations: Explains how customers can configure the service to use a YAML file to control which files in their repository CodeGuru Reviewer analyzes.
+
+* [Amazon CodeGuru Reviewer User Guide](https://docs.aws.amazon.com/codeguru/latest/reviewer-ug/welcome.html)
+
+* [Amazon CodeGuru Reviewer API Reference](https://docs.aws.amazon.com/codeguru/latest/reviewer-api/Welcome.html)
+
+#### Relational Database Service (RDS)
+
+* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+
+### Interactive Intelligence/Genesys
+
+(Genesys purchased Interactive Intelligence in December 2016.)
+
+As an embedded solo technical writer at Interactive Intelligence and Genesys, I worked closely with two delivery teams that practiced agile (scrum and kanban) software development.  I documented cloud-based integrations between the Genesys Cloud platform and third-party products. I explained integration features for end-users, configuration and setup for system administrators, and customization, APIs, and SDKs for developers.
+
+#### APIs/SDKs
 
 I was responsible for a variety of developer documentation.
 
@@ -55,7 +83,7 @@ I was responsible for a variety of developer documentation.
 * Developer tools: Drafted original documentation that described tools (API Explorer, Web Chat, Callback, Code Editor, Notification, and Analytics Query Builder) that allow developers and non-developers to play with our APIs through a user interface. Subsequently edited and moved to new location by different writer.
 
 
-### Back-end integrations
+#### Back-end integrations
 
 I created and maintained documentation for system administrators and developers to use data actions integrations.
 
@@ -72,7 +100,7 @@ I created and maintained documentation for system administrators and developers 
 
 **Deprecated products**: Verint WFM historical integration, Verint WFM RTA integration, Oracle data actions integration, web services data dip connector (Bridge Server).
 
-### Front-end integrations
+#### Front-end integrations
 
 I created and maintained documentation for end-users, system administrators, and developers who want to use Genesys Cloud inside third-party products or custom systems, or with browser extensions.
 
