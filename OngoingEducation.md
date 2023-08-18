@@ -10,13 +10,13 @@
 In GitHub repositories.
 
 * [API](https://github.com/amylmiller7/API): Includes directories with course exercises and an independent project. The IWOAMovieAPI directory contains an OpenAPI 3.0 file and explanatory documentation about a mock API that I designed.
-  
+
 * [HTML CSS](https://github.com/amylmiller7/HTML_CSS): Contains final project for O'Reilly HTML and CSS course.
-  
+
 * [Java](https://github.com/amylmiller7/Java): Includes directories with course exercises and projects inspired by items learned in the courses.
-  
+
 * [JavaScript](https://github.com/amylmiller7/JavaScript): Includes directory with course exercises and projects inspired by items learned in the course. Projects use JavaScript, HTML, and CSS files and include technical documentation.
-  
+
 * [XML](https://github.com/amylmiller7/XML): Includes XML, XSL, and XSD files created to explore using XML technologies. Also includes Java file to render XML as HTML.
 
 ## Instruction
@@ -78,6 +78,7 @@ Select list of courses taken in-person and online divided by subject.
 
 ### AWS
 
+* AWS Technical Essentials, AWS, Warren Hammond
 * Architecting on AWS, AWS, Sarah Nagata
 * AWS CloudFormation, Udemy, Stephane Maarek
 * AWS Essentials 2019, Udemy, Tia Williams
