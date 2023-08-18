@@ -24,7 +24,7 @@ At AWS I write and maintain user guides, API references, CLI references, GitHub 
 
 I initially worked as a solo writer for Amazon CodeGuru Reviewer, a service that uses program analysis and machine learning to detect potential issues in application code. I later transitioned to a team of writers dedicated to Amazon Relational Database Service (RDS), where I focus on documentation for RDS for MySQL and RDS for MariaDB.
 
-The following are selected features for the two services that I worked on at AWS.
+The following are selected features, projects, and documentation for the two services that I worked on at AWS.
 
 #### Amazon CodeGuru Reviewer
 
@@ -38,7 +38,11 @@ The following are selected features for the two services that I worked on at AWS
 
 #### Relational Database Service (RDS)
 
-* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html): Responsible for sections devoted to MariaDB and MySQL and content scattered throughout the user guide for these two engines.
+
+* Created private beta documentation.
+
+* Led content creation for features and updates to content that spanned different engines owned by multiple writers.
 
 ### Interactive Intelligence/Genesys
 
