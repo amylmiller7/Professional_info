@@ -10,7 +10,7 @@
 
 Independent projects in my GitHub repositories include technical documentation.
 
-* [API](https://github.com/amylmiller7/API): Contains independent project of a mock API with API reference material and introductory documentation about how to use the API.
+* [API](https://github.com/amylmiller7/API): Contains independent project ([IWOAMovieAPI](https://github.com/amylmiller7/API/tree/master/IWOAMovieAPI)) of a mock API with API reference material (described in a YAML file) and introductory documentation about how to use the API.
 
 * [Java](https://github.com/amylmiller7/Java): Contains independent projects and projects inspired by courses. One project includes Javadoc.
 
