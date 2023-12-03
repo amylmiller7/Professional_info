@@ -38,9 +38,9 @@ The following are selected features, projects, and documentation for the two ser
 
 #### Relational Database Service (RDS)
 
-* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html): Responsible for sections devoted to MariaDB and MySQL and content scattered throughout the user guide for these two engines.
+* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html): Responsible for sections devoted to the Db2, MariaDB, and MySQL database engines, and content scattered throughout the user guide for these three engines.
 
-* Created private beta documentation.
+* Created private beta documentation. Later released modified and expanded documentation for general availability during annual conference.
 
 * Led content creation for features and updates to content that spanned different engines owned by multiple writers.
 
