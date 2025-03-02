@@ -32,7 +32,7 @@ The following are selected features, projects, and documentation for the two ser
 
 * Created private beta documentation for Db2. Later released modified and expanded documentation in the Amazon RDS User Guide and Amazon RDS API Reference for general availability at re:Invent 2023. Continue to create and update documentation for expanded Db2 engine functionality.
 
-* Led content creation for Amazon RDS Extended Support PureCloud_Embeddable_Framework_Mystery_CRM, and continue to document expanded functionality of the feature. Involves multiple engines owned by other writers, both user guides, multiple release notes, and API reference material.
+* Led content creation for Amazon RDS Extended Support, and continue to document expanded functionality of the feature. Involves multiple engines owned by other writers, both user guides, multiple release notes, and API reference material.
 
 * Routinely work on cross-service projects, such as Db2 licenses for AWS Marketplace and the AWS License Manager integration, that involve coordinating with other service team writers to produce documentation for scheduled releases.
 
