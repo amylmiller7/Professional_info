@@ -26,6 +26,28 @@ I initially worked as a solo writer for Amazon CodeGuru Reviewer, a service that
 
 The following are selected features, projects, and documentation for the two services that I worked on at AWS.
 
+#### Amazon Relational Database Service (RDS)
+
+* Responsible for content about the Db2, MariaDB, and MySQL database engines. Includes the engine-specific chapters as well as content about the engines scattered throughout the Amazon RDS User Guide and the Amazon RDS API Reference.
+
+* Created private beta documentation for Db2. Later released modified and expanded documentation in the Amazon RDS User Guide and Amazon RDS API Reference for general availability at re:Invent 2023. Continue to create and update documentation for expanded Db2 engine functionality.
+
+* Led content creation for Amazon RDS Extended Support PureCloud_Embeddable_Framework_Mystery_CRM, and continue to document expanded functionality of the feature. Involves multiple engines owned by other writers, both user guides, multiple release notes, and API reference material.
+
+* Routinely work on cross-service projects, such as Db2 licenses for AWS Marketplace and the AWS License Manager integration, that involve coordinating with other service team writers to produce documentation for scheduled releases.
+
+* Work on the following assets types:
+  * Console UI text and help panels
+  * Error messages
+  * Conceptual, procedural, and reference material in user guides
+  * API reference material
+
+* [Amazon RDS User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+
+* [Amazon Aurora User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
+
+* [Amazon RDS API Reference](https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/Welcome.html)
+
 #### Amazon CodeGuru Reviewer
 
 * Detector Library: Landing page and user guide updates around collection of detectors that analyze customer code and return recommendations for ways to improve the performance and security of the code.
@@ -35,14 +57,6 @@ The following are selected features, projects, and documentation for the two ser
 * [Amazon CodeGuru Reviewer User Guide](https://docs.aws.amazon.com/codeguru/latest/reviewer-ug/welcome.html)
 
 * [Amazon CodeGuru Reviewer API Reference](https://docs.aws.amazon.com/codeguru/latest/reviewer-api/Welcome.html)
-
-#### Relational Database Service (RDS)
-
-* [Amazon Relational Database Service User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html): Responsible for sections devoted to the Db2, MariaDB, and MySQL database engines, and content scattered throughout the user guide for these three engines.
-
-* Created private beta documentation. Later released modified and expanded documentation for general availability during annual conference.
-
-* Led content creation for features and updates to content that spanned different engines owned by multiple writers.
 
 ### Interactive Intelligence/Genesys
 
